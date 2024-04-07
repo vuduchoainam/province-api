@@ -1,4 +1,4 @@
-# **Provience_api**
+# **Province_api**
 
 This repository contains an API for managing information about provinces/cities, districts, and wards in Vietnam.
 
