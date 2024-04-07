@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nBEZvQYr6IMBPQjvQcQ2rKnJAhs+/wu9JaRHzCbTtPg=",
+  "Source": "provience_api.API",
+  "BasePath": "_content/provience_api.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

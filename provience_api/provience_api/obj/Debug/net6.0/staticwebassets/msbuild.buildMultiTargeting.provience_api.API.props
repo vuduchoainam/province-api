@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\provience_api.API.props" />
+</Project>
